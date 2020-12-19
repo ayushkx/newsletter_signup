@@ -1,0 +1,847 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"res",
+				"request"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"f",
+				"firstname"
+			],
+			[
+				"e",
+				"express"
+			],
+			[
+				"magin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"bo",
+				"border-radius\tproperty"
+			],
+			[
+				"st",
+				"styles"
+			],
+			[
+				"body",
+				"bodyParser"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"weath",
+				"weather"
+			],
+			[
+				"we",
+				"weatherdata"
+			],
+			[
+				"wea",
+				"weatherdes"
+			],
+			[
+				"cos",
+				"console"
+			],
+			[
+				"send",
+				"sendFile"
+			],
+			[
+				"b",
+				"body"
+			],
+			[
+				"n",
+				"Number"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"le",
+				"level-title"
+			],
+			[
+				"user",
+				"userClickedPattern"
+			],
+			[
+				"use",
+				"userClickedPattern"
+			],
+			[
+				"ne",
+				"nextSequence"
+			],
+			[
+				"p",
+				"pressed"
+			],
+			[
+				"pla",
+				"playSound"
+			],
+			[
+				"ran",
+				"randomChosenColour"
+			],
+			[
+				"rand",
+				"randomChosenColour"
+			],
+			[
+				"us",
+				"userClickedPattern"
+			],
+			[
+				"fi",
+				"function"
+			],
+			[
+				"fa",
+				"fadeIn"
+			],
+			[
+				"ra",
+				"randomChosenColour"
+			],
+			[
+				"r",
+				"randomChosenColour"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"sr",
+				"script\tTag"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"ki",
+				"kick-bass"
+			],
+			[
+				"k",
+				"key"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"a",
+				"addEventListener"
+			],
+			[
+				"s",
+				"snare"
+			],
+			[
+				"ba",
+				"background-image\tproperty"
+			],
+			[
+				"get",
+				"getname"
+			],
+			[
+				"bmi",
+				"bmiCalculator"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"btn",
+				"btn-block"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"testimonial",
+				"testimonial-image"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"align",
+				"align-content\tproperty"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"mag",
+				"margin-left\tproperty"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"na",
+				"navbar"
+			],
+			[
+				"ce",
+				"cellpadding\tAttr"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"pa",
+				"padding-right\tproperty"
+			],
+			[
+				"borderto",
+				"border-top-style\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"borderr",
+				"border-radius\tproperty"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"bordert",
+				"border-top-style\tproperty"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"onm",
+				"onmouseout\tAttr"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"qb_sub_la",
+				"qb_sub_input_last_code"
+			],
+			[
+				"pr",
+				"printable"
+			],
+			[
+				"qb_sub_input_ti",
+				"qb_sub_input_ktimer"
+			],
+			[
+				"qb_sub",
+				"qb_sub_input_inp_txt"
+			],
+			[
+				"qb_su",
+				"qb_sub_input_canvas_buffer"
+			],
+			[
+				"qb_s",
+				"qb_sub_input_clr_chg"
+			],
+			[
+				"web",
+				"web64_status"
+			],
+			[
+				"qb_p",
+				"qb_print_offset_x"
+			],
+			[
+				"lenth",
+				"length"
+			],
+			[
+				"qb",
+				"qb_sub_input_inp_txt"
+			],
+			[
+				"qb_sub_",
+				"qb_sub_input_offX"
+			],
+			[
+				"qb_de",
+				"qb_default_bg_color"
+			],
+			[
+				"str",
+				"stroke"
+			],
+			[
+				"stroke",
+				"stroke"
+			],
+			[
+				"stro",
+				"strokeWeight"
+			],
+			[
+				"qb_d",
+				"qb_default_fg_color"
+			],
+			[
+				"qb_sub_input_c",
+				"qb_sub_input_canvas_buffer"
+			],
+			[
+				"qb_c",
+				"qb_current_pixel_mode"
+			],
+			[
+				"qb_cu",
+				"qb_current_pixel_mode"
+			],
+			[
+				"off",
+				"offX"
+			],
+			[
+				"of",
+				"offY"
+			],
+			[
+				"strok",
+				"strokeWeight"
+			],
+			[
+				"qb_",
+				"qb_current_canvas_width"
+			],
+			[
+				"qbs",
+				"qb_sub_print"
+			],
+			[
+				"qb_pro",
+				"qb_print_offset_x"
+			],
+			[
+				"qb_pr",
+				"qb_print_offset_y"
+			],
+			[
+				"qb_pri",
+				"qb_print_offset_x"
+			],
+			[
+				"qb_print",
+				"qb_print_offset_y"
+			],
+			[
+				"textS",
+				"textSize"
+			],
+			[
+				"i",
+				"inc\t#include \"…\""
+			],
+			[
+				"cel",
+				"cellspacing\tAttr"
+			],
+			[
+				"tra",
+				"transform\tproperty"
+			],
+			[
+				"anima",
+				"animation-name\tproperty"
+			],
+			[
+				"tki",
+				"tkinter"
+			],
+			[
+				"o",
+				"OpenGLBook"
+			],
+			[
+				"fr",
+				"firstName"
+			],
+			[
+				"pc",
+				"pcode"
+			],
+			[
+				"is",
+				"isString"
+			],
+			[
+				"eac",
+				"eachLineCode"
+			],
+			[
+				"IDE-",
+				"IDE-Keyword-2"
+			],
+			[
+				"IDE",
+				"IDE-Number"
+			],
+			[
+				"IDE-Key",
+				"IDE-Keyword-3"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"scree",
+				"screenName"
+			],
+			[
+				"tw",
+				"TweetNow"
+			],
+			[
+				"Tw",
+				"TweetNow"
+			],
+			[
+				"show",
+				"showPostResult"
+			],
+			[
+				"so",
+				"spots"
+			],
+			[
+				"x",
+				"xSpeed"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"fo",
+				"for\tfor (…) {…}"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "styles.css",
+			"settings":
+			{
+				"buffer_size": 794,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"g++ \"F:\\Files\\Projects\\Learning C++\\program1.cpp\" \"F:\\Files\\Projects\\Learning C++\\support.cpp\" -o \"F:\\Files\\Projects\\Learning C++\\program1.exe\""
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/Ayush/Desktop/ayush/simple-project",
+		"/C/Users/Ayush/Desktop/ayush/weatherproject/index.html",
+		"/C/Users/Ayush/Desktop/ayush/weatherproject/app.js",
+		"/C/Users/Ayush/Desktop/ayush/weatherproject/package.json",
+		"/C/Users/Ayush/Desktop/test.c",
+		"/F/Qbasic64-GL/getboard_new.php",
+		"/C/Users/Ayush/Desktop/ayush/Calculator/package.json",
+		"/C/Users/Ayush/Desktop/ayush/Calculator/index.html",
+		"/C/Users/Ayush/Desktop/ayush/Calculator/bmi.html",
+		"/C/Users/Ayush/Desktop/ayush/Calculator/calculator.js",
+		"/F/Qbasic64-GL/updateboard_new.php",
+		"/C/Users/Ayush/Desktop/ayush/my-express-server/server.js",
+		"/C/Users/Ayush/AppData/Roaming/npm/node_modules/nodemon/bin/nodemon.js",
+		"/C/Users/Ayush/Desktop/ayush/my-express-server/package.json",
+		"/C/Users/Ayush/Desktop/ayush/website part1/index.html",
+		"/C/Users/Ayush/Desktop/ayush/node/index.js",
+		"/C/Users/Ayush/Desktop/ayush/node/package.json",
+		"/C/Users/Ayush/Desktop/ayush/node/file1.txt",
+		"/C/Users/Ayush/AppData/Roaming/Hyper/.hyper.js",
+		"/C/Users/Ayush/Desktop/ayush/Simon Game Challenge Starting Files/index.html",
+		"/C/Users/Ayush/Desktop/ayush/Simon Game Challenge Starting Files/game.js",
+		"/C/Users/Ayush/Desktop/ayush.js",
+		"/C/Users/Ayush/Desktop/ayush/Simon Game Challenge Starting Files/styles.css",
+		"/C/Users/Ayush/Desktop/game.js",
+		"/C/Users/Ayush/Downloads/updateboard_new.php",
+		"/C/Users/Ayush/Downloads/original (1).zip",
+		"/C/Users/Ayush/Desktop/ayush/jquery/index.html",
+		"/C/Users/Ayush/Desktop/ayush/jquery/index.js",
+		"/C/Users/Ayush/Desktop/ayush/jquery/style.css",
+		"/C/Users/Ayush/Desktop/test.html",
+		"/C/Users/Ayush/Desktop/style.css",
+		"/C/Users/Ayush/Downloads/updateboard.php",
+		"/C/Users/Ayush/Desktop/ayush/Drum Kit Starting Files/styles.css",
+		"/C/Users/Ayush/Desktop/ayush/Drum Kit Starting Files/index.js",
+		"/C/Users/Ayush/Desktop/ayush/Drum Kit Starting Files/index.html",
+		"/C/Users/Ayush/Downloads/getboard.php",
+		"/C/Users/Ayush/Desktop/ayush/Dicee Challenge - Starting Files/dicee.html",
+		"/C/Users/Ayush/Desktop/ayush/Dicee Challenge - Starting Files/index.js",
+		"/C/Users/Ayush/Desktop/DOM Challenge Starting Files/index.html",
+		"/C/Users/Ayush/Desktop/DOM Challenge Starting Files/index.js",
+		"/C/Users/Ayush/Desktop/ayush/website part 3/index.html",
+		"/C/Users/Ayush/Desktop/ayush/website part 3/styles.css",
+		"/F/Files/Projects/WEB64/web64.js",
+		"/C/Users/Ayush/Desktop/ayush/website part2/index.html",
+		"/F/Qbasic64-GL/v64.bas",
+		"/C/Users/Ayush/AppData/Roaming/Sublime Text 3/Packages/User/QB64.yaml",
+		"/F/qb64.yaml",
+		"/C/Users/Ayush/Desktop/ayush/website part 3/TinDog-Start-master/index.html",
+		"/C/Users/Ayush/Desktop/ayush/website part 3/TinDog-Start-master/README.md",
+		"/C/Users/Ayush/Desktop/ayush/project huhu/fylo-data-storage-component-master/index.html",
+		"/C/Users/Ayush/Desktop/ayush/project huhu/project3/style-guide.md",
+		"/C/Users/Ayush/Desktop/ayush/project huhu/project3/README.md",
+		"/C/Users/Ayush/Desktop/ayush/project huhu/project2.html",
+		"/C/Users/Ayush/Desktop/ayush/project huhu/styles.css",
+		"/C/Users/Ayush/Desktop/ayush/project huhu/bootstrap.min.js",
+		"/C/Users/Ayush/Desktop/ayush/project huhu/project1.html",
+		"/F/web-host/site-2/index.php",
+		"/F/web-host/site-2/nav_menu.php",
+		"/F/web-host/site-1/index.php",
+		"/F/web-host/site-3/index.html",
+		"/C/Users/Ayush/Desktop/ayush/website part2/styles.css",
+		"/F/web-host/site-1/menu.php",
+		"/F/web-host/KingAshish/index.php",
+		"/F/web-host/site-2/Script/page.js",
+		"/F/web-host/smoke/Menus.php",
+		"/F/Qbasic64-GL/index.php",
+		"/C/Users/Ayush/Desktop/ayush/website part2/WD4.6 Stub HTML Code/StubCode.html",
+		"/C/Users/Ayush/Desktop/CSS Debugging Problems/hh.html",
+		"/C/Users/Ayush/Desktop/ayush/contact.html",
+		"/C/Users/Ayush/Desktop/ayush/link.html",
+		"/C/Users/Ayush/Desktop/ayush/styles.css",
+		"/C/Users/Ayush/Desktop/ayush/fed.html",
+		"/C/Users/Ayush/Desktop/ayush/index.html",
+		"/C/Users/Ayush/Desktop/CSS Debugging Problems/Debugging Problem .html",
+		"/C/Users/Ayush/Desktop/CSS Debugging Problems/vv.html",
+		"/F/Files/Projects/PythoN/bots/test_bot.py",
+		"/C/Users/Ayush/Desktop/website/contact.html",
+		"/C/Users/Ayush/Desktop/website/link.html",
+		"/C/Users/Ayush/Desktop/website/fed.html",
+		"/C/Users/Ayush/Desktop/website/first.html",
+		"/C/Users/Ayush/Desktop/website/fed.htl",
+		"/F/Files/Projects/PythoN/recur_check_prime.py",
+		"/F/web-host/site-1/downloads.php",
+		"/F/web-host/site-1/getsoft.php",
+		"/C/Users/Ayush/Desktop/first.html",
+		"/F/Files/Projects/OpenGL-Tutorials/2d-transformation/index.md",
+		"/F/Files/Projects/OpenGL-Tutorials/textures/index.md",
+		"/F/Files/Projects/OpenGL-Tutorials/index.md",
+		"/F/Files/Projects/OpenGL-Tutorials/_layouts/default.html",
+		"/F/Files/Projects/OpenGL-Tutorials/colors/index.md",
+		"/F/Files/Projects/OpenGL-Tutorials/hello-opengl/index.md",
+		"/F/Files/Projects/OpenGL-Tutorials/textures/solution-4/index.md",
+		"/F/Files/Projects/OpenGL-Tutorials/textures/solution-3/index.md",
+		"/F/Files/Projects/OpenGL-Tutorials/textures/solution-2/index.md",
+		"/F/Files/Projects/OpenGL-Tutorials/textures/solution-1/index.md",
+		"/F/Files/Projects/OpenGL-Tutorials/intro/index.md",
+		"/F/Files/Projects/WEB64/web64_app.js",
+		"/F/Files/Projects/WEB64/Practice.html",
+		"/F/Files/Web-Development/Practice.html",
+		"/F/Files/Projects/WEB64/test.html",
+		"/F/Files/Web-Development/web64.js",
+		"/F/Files/Projects/PythoN/prime_fact.py",
+		"/F/Files/Web-Development/methods.js",
+		"/F/Files/Projects/PythoN/nested_loop.py",
+		"/F/Files/Projects/PythoN/checkPrime.py",
+		"/F/Files/QB64-Samples-Program/sxript/src/sxript.js",
+		"/C/Users/Ayush/Desktop/ascending_numbers.py",
+		"/C/Users/Ayush/Desktop/checkPrime.py",
+		"/C/Users/Ayush/Desktop/test.py",
+		"/C/Users/Ayush/Desktop/qb64Core.py",
+		"/C/Python/Python36-32/Lib/html/parser.py",
+		"/C/Python/Python36-32/Lib/html/entities.py",
+		"/C/Python/Python36-32/Lib/html/__init__.py",
+		"/C/Users/Ayush/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/TempState/Downloads/index.php",
+		"/C/Users/Ayush/AppData/Local/Temp/Temp1_sxript.zip/sxript/src/qbf.js",
+		"/F/Files/Web-Development/p5.js/p5.min.js",
+		"/F/Files/Web-Development/p5.js/addons/p5.dom.min.js",
+		"/F/Files/Web-Development/p5.js/empty-example/sketch.js",
+		"/F/Files/Web-Development/p5.js/p5.js",
+		"/F/web-host/site-1/new_account.php",
+		"/F/web-host/site-2/easyM.php",
+		"/F/web-host/site-2/js_default.php",
+		"/F/web-host/site-2/nav_menu_down.php",
+		"/F/web-host/site-2/Tryit.php",
+		"/F/web-host/site-2/suggestion.php",
+		"/C/Users/Ayush/Downloads/PyOpenGL-Demo-3.0.0/PyOpenGL-Demo/dek/OglSurface/triangle.py",
+		"/C/Users/Ayush/Downloads/PyOpenGL-Demo-3.0.0/PyOpenGL-Demo/dek/tile.py",
+		"/C/Users/Ayush/Downloads/PyOpenGL-Demo-3.0.0/PyOpenGL-Demo/da/dots.py"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "styles.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 794,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								173,
+								173
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "success.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 177.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
